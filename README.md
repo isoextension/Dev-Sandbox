@@ -4,6 +4,9 @@ Welcome to DevSandbox, a place for experimentation and innovation! Please read a
 
 ## Rules
 
+![New Project 6](https://github.com/isoextension/Dev-Sandbox/assets/163932813/b143c700-344e-47e7-ae60-ff05388fe6a0)
+
+
 1. **Respect Others:** Treat all contributors with kindness, respect, and professionalism. Harassment, discrimination, or disrespectful behavior will not be tolerated.
 
 2. **Experiment Freely:** Feel free to experiment, explore new ideas, and push the boundaries of creativity. This is a sandbox environment where innovation thrives!
