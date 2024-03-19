@@ -11,7 +11,7 @@ boot=MS
 #  - "n=(number)", a weight for this image in the randomization process. Default: n=1.
 #  - "x=(number)" or "x=keep", the x offset from the center. Default: x=0.
 #  - "y=(number)" or "y=keep", the y offset from the center. Default: y=0.
-#  - "o=(0|90|180|270|keep)", the screen orientation, degrees anticlockwise. Default: o=keep.
+#  - "o=(0|90|180|270|keep)", the screen orientation, degrees counterclockwise. Default: o=keep.
 # One of the following:
 #  - "keep" to keep the firmware logo. Also keeps coordinates by default.
 #  - "remove" to remove the BGRT. Makes x and y meaningless.
